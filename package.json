@@ -1,0 +1,23 @@
+{
+  "name": "jest-changesince-issue",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-changedSince": "jest --changedSince=master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springuper/jest-changeSince-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/springuper/jest-changeSince-issue/issues"
+  },
+  "homepage": "https://github.com/springuper/jest-changeSince-issue#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
